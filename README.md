@@ -1,7 +1,7 @@
 # BSFC Map Generator
 
 ## Overview
-BFSC.py Generates a synthetic Brake Specific Fuel Consumption (BSFC) contour map, modeled for the 75 HP engine of a 2013 Opel Corsa 1.3 CDTi by default. 
+BFSC.py Generates a synthetic Brake Specific Fuel Consumption (BSFC) contour map, modeled for the 75 HP engine of a 2013 Opel Corsa 1.3 CDTi by default. Requires torque-RPM curve input.
 
 ## What is BSFC?
 Brake Specific Fuel Consumption is a metric that evaluates the thermodynamic efficiency of an internal combustion engine, expressed in grams per kilowatt-hour (g/kWh). Lower numbers indicate higher efficiency. 
