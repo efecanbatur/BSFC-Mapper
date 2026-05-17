@@ -4,7 +4,7 @@
 BFSC.py Generates a synthetic Brake Specific Fuel Consumption (BSFC) contour map, modeled for the 75 HP engine of a 2013 Opel Corsa 1.3 CDTi by default. 
 
 ## What is BSFC?
-Brake Specific Fuel Consumption is a metric that evaluates the thermodynamic efficiency of an internal combustion engine. It measures how much fuel mass the engine consumes to produce one unit of mechanical energy, expressed in grams per kilowatt-hour (g/kWh). Lower numbers indicate higher efficiency. 
+Brake Specific Fuel Consumption is a metric that evaluates the thermodynamic efficiency of an internal combustion engine, expressed in grams per kilowatt-hour (g/kWh). Lower numbers indicate higher efficiency. 
 
 ## Output
 Below is the generated contour map demonstrating the engine efficiency zones and physical limits:
